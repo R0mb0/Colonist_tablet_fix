@@ -8,6 +8,14 @@
   <h1 align="center">🎲 Colonist.io Drawing Tablet Fix 🖊️</h1>
   
 <div align="center">
+    
+![demo.gif](https://github.com/R0mb0/Colonist_drawing_tablet_fix/blob/main/Demo/Demo.gif?raw=true)
+
+</div>
+
+<p> The GIF above is just a quick demonstration to show the script in action. I'm not an expert player, so please ignore my terrible moves and strategy! 😅 </p>
+
+<div align="center">
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/1a4abe616c964f738a32483c2913e183)](https://app.codacy.com/gh/R0mb0/Colonist_tablet_fix/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/R0mb0/Colonist_tablet_fix)
