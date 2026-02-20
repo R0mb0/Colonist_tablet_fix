@@ -128,4 +128,8 @@
 </body>
 </html>
 
+<div align="center">
+
 ## Dedicated with love to Lucia ❤️
+
+</div>
